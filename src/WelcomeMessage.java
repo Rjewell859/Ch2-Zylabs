@@ -8,6 +8,6 @@ public class WelcomeMessage {
         userName = scnr.next();
         System.out.print("Hello "+ userName + ", and welcome to CS Online!");
 
-        /* Type your code here. */
+       // complete
     }
 }
