@@ -6,6 +6,7 @@ public class CaffeineLevels {
         double caffeineMg; // "double" supports floating-point like 75.5, versus int for integers like 75.
 
         caffeineMg = scnr.nextDouble();
-        /* Type your code here. */
+        System.out.print(caffeineMg);
+
     }
 }
