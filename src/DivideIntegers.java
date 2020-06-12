@@ -17,6 +17,6 @@ public class DivideIntegers {
     System.out.println("After 2 divisions: " + divResult);
     divResult = divResult/ divNum;
 
-    System.out.println("After 3 divisions: " + divResult);
+    System.out.println("After 3 divisions: " + divResult); // Complete
     }
 }
