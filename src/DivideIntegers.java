@@ -9,15 +9,14 @@ public class DivideIntegers {
     int userNum = scn.nextInt();
     int divNum = scn.nextInt(); // change variable name
     int divResult = userNum / divNum;
-    int divResult2;
-    int divResult3;
+
 
     System.out.println("After 1 division: " + divResult);
-    divResult2 = divResult / divNum;
+    divResult = divResult / divNum;
 
-    System.out.println("After 2 divisions: " + divResult2);
-    divResult3 = divResult2 / divNum;
+    System.out.println("After 2 divisions: " + divResult);
+    divResult = divResult/ divNum;
 
-    System.out.println("After 3 divisions: " + divResult3);
+    System.out.println("After 3 divisions: " + divResult);
     }
 }
